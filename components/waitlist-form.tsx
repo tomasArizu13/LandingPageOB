@@ -52,7 +52,7 @@ export default function WaitlistForm() {
     <section ref={formRef} id="waitlist" className="section-padding bg-neutral-50">
       <div className="container-custom">
         <div className="max-w-3xl mx-auto">
-          <h2 className="heading-lg text-center fade-in mb-4">Únete a nuestra lista de espera exclusiva</h2>
+          <h2 className="heading-lg text-center fade-in mb-4">Solicita tu acceso exclusivo</h2>
           <p className="subtitle text-center mx-auto fade-in mb-12 animate-delay-200">
             Sé de los primeros en acceder a OneBite y vive experiencias gastronómicas únicas
           </p>

@@ -41,24 +41,7 @@ export default function Partners() {
               className="opacity-80 hover:opacity-100 transition-opacity"
             />
           </div>
-          <div className="fade-in animate-delay-300">
-            <Image
-              src="/images/partner-logo-2.png"
-              alt="Partner"
-              width={180}
-              height={60}
-              className="opacity-80 hover:opacity-100 transition-opacity"
-            />
-          </div>
-          <div className="fade-in animate-delay-400">
-            <Image
-              src="/images/partner-logo-3.png"
-              alt="Partner"
-              width={180}
-              height={60}
-              className="opacity-80 hover:opacity-100 transition-opacity"
-            />
-          </div>
+         
         </div>
       </div>
     </section>

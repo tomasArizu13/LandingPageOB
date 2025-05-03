@@ -40,24 +40,23 @@ export default function Hero() {
         />
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
       </div> */}
-      <picture>
-  <source
-    media="(max-width: 768px)"
-    srcSet="/images/portada-mobile.png"
-  />
-  <img
-    src="/images/portada-desktop.png"
-    alt="Experiencia gastronómica exclusiva"
-    className="object-cover w-full h-full absolute inset-0 z-0"
-  />
-</picture>
+       <picture>
+        <source
+          media="(max-width: 768px)"
+          srcSet="/images/portada-mobile.png"
+        />
+        <img
+          src="/images/portada-desktop.png"
+          alt="Experiencia gastronómica exclusiva"
+          className="object-cover w-full h-full absolute inset-0 z-0"
+        />
+      </picture> 
 
       {/* Content */}
       <div className="container-custom relative z-10 text-white pt-20">
         <div className="max-w-3xl">
           <h1 className="heading-xl fade-in mb-6">
-            Comer ya no es <span className="gold-gradient">suficiente</span>. <br />
-            Vivilo.
+            Descubri el placer de lo <span className="gold-gradient">inexplorado</span>. <br />
           </h1>
           <p className="subtitle fade-in text-white/90 mb-8 animate-delay-200">
             OneBite es tu acceso exclusivo a experiencias gastronómicas únicas.

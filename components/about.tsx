@@ -35,7 +35,7 @@ export default function About() {
               ¿Qué es <span className="gold-gradient">OneBite</span>?
             </h2>
             <p className="fade-in text-lg leading-relaxed mb-6 animate-delay-200">
-              OneBite es un club gastronómico donde cada salida es una experiencia curada. Cenas privadas, menús
+              OneBite es un club gastronómico donde cada salida es una experiencia curada y unica. Cenas privadas, menús
               secretos, eventos multisensoriales. Solo para quienes buscan lo mejor.
             </p>
             <p className="fade-in text-lg leading-relaxed animate-delay-300">
